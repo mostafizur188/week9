@@ -1,6 +1,7 @@
 # week9
 Time spent: 16 hours spent in total
 
+<img src = '' />
 This week we set up honeypots on the cloud to *lure* attackers to try and attack our machines in order to learn what kind of techniques they use, what their ultimate goals are, and hopefully capture some malware samples.
 
 
